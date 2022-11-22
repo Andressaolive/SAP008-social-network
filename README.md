@@ -1,4 +1,4 @@
-# INspire - Uma rede que INspira e conecta pessoas que buscam melhorar sua qualidade de vida e saúde mental!🌟
+# INspire - Uma rede que INspira e conecta pessoas que buscam melhorar sua qualidade de vida e saúde mental!
 
 <div align="center">
   <img src='./src/imagens/InspireReadme.png' style="altura: 12rem;">
@@ -122,13 +122,13 @@ Protótipo da versão mobile elaborado pelo aplicativo canva:
 Protótipo da versão mobile elaborado pelo aplicativo Figma:
 
 <p>
-  <img width="560" heigth="400" src='./src/imagens/Prototipo-alta.png'>
+  <img width="660" heigth="500" src='./src/imagens/Prototipo-alta.png'>
 </p>
 
 Protótipo da versão desktop elaborado pelo aplicativo Figma:
 
 <p>
-  <img width="560" heigth="400" src='./src/imagens/Prototipo-desktop.png'>
+  <img width="660" heigth="500" src='./src/imagens/Prototipo-desktop.png'>
 </p>
 
 
