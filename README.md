@@ -109,7 +109,7 @@ Com base nas pesquisas com os usuários, elaboramos 3 histórias de usuário:
 
 ## 5. Protótipos
 
-### 5.1 Protótipo de baixa fidelidade
+## 5.1 Protótipo de baixa fidelidade
 
 Protótipo da versão mobile elaborado pelo aplicativo canva:
 
@@ -117,7 +117,7 @@ Protótipo da versão mobile elaborado pelo aplicativo canva:
   <img width="460" heigth="300" src='./src/imagens/Prototipo-baixa.png'>
 </p>
 
-### 5.2 Protótipo de alta fidelidade
+## 5.2 Protótipo de alta fidelidade
 
 Protótipo da versão mobile elaborado pelo aplicativo Figma:
 
