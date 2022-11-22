@@ -122,13 +122,13 @@ Protótipo da versão mobile elaborado pelo aplicativo canva:
 Protótipo da versão mobile elaborado pelo aplicativo Figma:
 
 <p>
-  <img width="660" heigth="500" src='./src/imagens/Prototipo-alta.png'>
+  <img width="460" heigth="300" src='./src/imagens/Prototipo-alta.png'>
 </p>
 
 Protótipo da versão desktop elaborado pelo aplicativo Figma:
 
 <p>
-  <img width="660" heigth="500" src='./src/imagens/Prototipo-desktop.png'>
+  <img width="460" heigth="300" src='./src/imagens/Prototipo-desktop.png'>
 </p>
 
 
