@@ -1,4 +1,4 @@
-# INspire - Uma rede que INspira e conecta pessoas que buscam melhorar sua qualidade de vida e saúde mental!
+# INspire - Rede que INspira e conecta pessoas que buscam melhorar sua qualidade de vida e saúde mental!
 
 <div align="center">
   <img src='./src/imagens/InspireReadme.png' style="altura: 12rem;">
